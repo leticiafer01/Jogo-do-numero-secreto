@@ -5,7 +5,7 @@
 
 <h2 style="text-align: center;">🔗 Acesse o Jogo</h2>
 <p style="text-align: center;">
-  <a href="(https://gamedonumerosecreto.vercel.app/)" target="_blank" style="font-size: 20px; font-weight: bold; text-decoration: none; background-color: #28a745; color: white; padding: 10px 20px; border-radius: 5px;">🎮 JOGAR AGORA</a>
+  <a href="https://jogo-do-numero-secretofile:///C:/Users/Let%C3%ADcia%20S%C3%A1/Documents/ONE%20PROJETOS/jogo%20do%20n%C3%BAmero%20secreto%20vf/index.html" target="_blank" style="font-size: 20px; font-weight: bold; text-decoration: none; background-color: #28a745; color: white; padding: 10px 20px; border-radius: 5px;">🎮 JOGAR AGORA</a>
 </p>
 <p style="text-align: center;">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Jogue Agora">
