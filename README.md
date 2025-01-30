@@ -5,7 +5,7 @@
 
 <h2 style="text-align: center;">🔗 Acesse o Jogo</h2>
 <p style="text-align: center;">
-  <a href="https://seusite.com/jogo" target="_blank" style="font-size: 20px; font-weight: bold; text-decoration: none; background-color: #28a745; color: white; padding: 10px 20px; border-radius: 5px;">🎮 JOGAR AGORA</a>
+  <a href="https://github.com/leticiafer01/Jogo-do-numero-secreto" target="_blank" style="font-size: 20px; font-weight: bold; text-decoration: none; background-color: #28a745; color: white; padding: 10px 20px; border-radius: 5px;">🎮 JOGAR AGORA</a>
 </p>
 <p style="text-align: center;">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Jogue Agora">
