@@ -6,7 +6,7 @@
 <h2 style="text-align: center;">🔗 Acesse o Jogo</h2>
  <div align="center">
 </div>
-<p><a href="https://leticiafer01.github.io/Jogo-do-numero-secreto/">🕹 Iniciar o Jogo</a></p>
+<p><a href="https://leticiafer01.github.io/jogdonumerosecreto/">🕹 Iniciar o Jogo</a></p>
 <p style="text-align: center;">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Jogue Agora">
 </p>
