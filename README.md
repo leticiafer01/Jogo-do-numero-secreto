@@ -33,5 +33,6 @@
 
 <h2>🌐 Acesse Agora</h2>
 <p>Está pronto para o desafio? Acesse o jogo e teste suas habilidades de adivinhação agora mesmo:</p>
+<p><a href="https://leticiafer01.github.io/Jogo-do-numero-secreto/">🕹 Iniciar o Jogo</a></p>
 
-<p>👹 <a href="#" target="_blank"><strong>Iniciar o Jogo</strong></a></p>
+---
