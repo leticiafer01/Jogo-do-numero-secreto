@@ -3,13 +3,13 @@
 
 <h2>📚 Sumário</h2>
 <ul>
-    <li>🎮 Funcionalidades</li>
+    <li>🧮 Funcionalidades</li>
     <li>🖥 Tecnologias Utilizadas</li>
-    <li>🌺 Como Jogar?</li>
+    <li>🏹 Como Jogar?</li>
     <li>🌐 Acesse Agora</li>
 </ul>
 
-<h2>🎮 Funcionalidades</h2>
+<h2>🧮 Funcionalidades</h2>
 <ul>
     <li><strong>Número aleatório:</strong> Um novo número é gerado a cada partida.</li>
     <li><strong>Tentativas contadas:</strong> Descubra quantas tentativas você leva para acertar.</li>
@@ -23,7 +23,7 @@
     <li><strong>JavaScript:</strong> Lógica do jogo e interatividade.</li>
 </ul>
 
-<h2>🌺 Como Jogar?</h2>
+<h2>🏹 Como Jogar?</h2>
 <ol>
     <li>Digite um número no campo de entrada.</li>
     <li>Clique no botão "Adivinhar" para conferir se acertou.</li>
